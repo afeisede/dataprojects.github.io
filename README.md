@@ -42,9 +42,9 @@ customer-churn-prediction/
 
 |── data/
 
-├── notebooks/
+|── notebooks/
 
-├── src/
+|── src/
 
 └── requirements.txt
 
