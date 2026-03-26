@@ -40,11 +40,11 @@ To identify customers likely to churn and understand the key factors influencing
 ## 📁 Project Structure
 customer-churn-prediction/
 
-|── data/
+ |── data/
 
-|── notebooks/
+ |── notebooks/
 
-|── src/
+ |── src/
 
 └── requirements.txt
 
