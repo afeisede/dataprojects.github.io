@@ -46,7 +46,7 @@ customer-churn-prediction/
 
  |── src/
 
- └-- requirements.txt
+ └── requirements.txt
 
 ## 👤 Author
 Hamzat Afe Isede
