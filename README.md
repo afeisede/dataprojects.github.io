@@ -39,15 +39,17 @@ To identify customers likely to churn and understand the key factors influencing
 
 ## 📁 Project Structure
 customer-churn-prediction/
-    |── data/
-    |── notebooks/
-    |── src/
-    └── requirements.txt
-customer-churn-prediction/
 │
 ├─ data/
 ├─ notebooks/
 ├─ src/
 └─ requirements.txt
+
 ## 👤 Author
 Hamzat Afe Isede
+
+## 🔗 Related Projects
+
+- Sales Forecasting (Time Series)
+- Customer Segmentation
+- Sales Dashboard (Power BI)
