@@ -38,12 +38,14 @@ To identify customers likely to churn and understand the key factors influencing
 - Feature engineering for improved performance
 
 ## 📁 Project Structure
+
+```
 customer-churn-prediction/
-│
-├─ data/
-├─ notebooks/
-├─ src/
-└─ requirements.txt
+├── data/
+├── notebooks/
+├── src/
+└── requirements.txt
+```
 
 ## 👤 Author
 Hamzat Afe Isede
